@@ -1,0 +1,7 @@
+invenv/
+__pycache__/
+*.pyc
+*.tmp
+.temp/
+Dockerfile
+docker-compose.yml

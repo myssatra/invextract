@@ -1,1 +1,3 @@
 invenv/
+__pycache__/
+*.pyc
